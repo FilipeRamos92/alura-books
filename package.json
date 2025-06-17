@@ -1,0 +1,21 @@
+{
+  "name": "alura-books",
+  "version": "1.0.0",
+  "description": "Alura books",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipeRamos92/alura-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipeRamos92/alura-books/issues"
+  },
+  "homepage": "https://github.com/FilipeRamos92/alura-books#readme"
+}
